@@ -18,3 +18,7 @@
     background-color: aqua;
     color: brown;
 }
+.hero > p{
+    color: brown;
+    padding: 0.5rem;
+}
