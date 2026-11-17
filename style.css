@@ -22,3 +22,8 @@
     color: brown;
     padding: 0.5rem;
 }
+.aside {
+   grid-area: sidebar;
+   background-color: blueviolet;
+   padding: 1em;
+}
