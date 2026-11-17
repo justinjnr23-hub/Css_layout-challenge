@@ -32,3 +32,8 @@
      background-color: black;
      color: aquamarine;
 }
+.footer {
+    grid-area:footer;
+    background-color: aqua;
+}
+
