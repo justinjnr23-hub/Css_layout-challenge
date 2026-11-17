@@ -13,3 +13,8 @@
     background-color: aliceblue;
 
 }
+.hero {
+    grid-area:header;
+    background-color: aqua;
+    color: brown;
+}
